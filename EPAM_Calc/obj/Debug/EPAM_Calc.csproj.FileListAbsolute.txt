@@ -1,0 +1,6 @@
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\bin\Debug\EPAM_Calc.exe.config
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\bin\Debug\EPAM_Calc.exe
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\bin\Debug\EPAM_Calc.pdb
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\obj\Debug\EPAM_Calc.csprojResolveAssemblyReference.cache
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\obj\Debug\EPAM_Calc.exe
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\EPAM_Calc\obj\Debug\EPAM_Calc.pdb
