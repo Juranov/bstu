@@ -1,0 +1,18 @@
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.csprojResolveAssemblyReference.cache
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\TestDemo.dll
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\TestDemo.pdb
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\EPAM_Calc.exe
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\nunit.framework.dll
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\EPAM_Calc.pdb
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\bin\Debug\nunit.framework.xml
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.dll
+D:\Учёба\4 kurs\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.pdb
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\TestDemo.dll
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\TestDemo.pdb
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\EPAM_Calc.exe
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\nunit.framework.dll
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\EPAM_Calc.pdb
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\bin\Debug\nunit.framework.xml
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.csprojResolveAssemblyReference.cache
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.dll
+D:\Study\EPAM\EPAM\EPAM_Calc\TestDemo\obj\Debug\TestDemo.pdb
